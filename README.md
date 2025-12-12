@@ -9,7 +9,7 @@
 ### Os nomes devem ficar na seguinte ordem:
 
 - David Ryan
-- Emanuel Uchoa
+- Emmanuel Uchoa
 - Gabriel Felix
 - Marconi Aragão
 - Nilvan Silvano
