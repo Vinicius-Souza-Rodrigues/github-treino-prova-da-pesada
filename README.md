@@ -16,3 +16,5 @@
 - Rodrigo Diniz
 - Victor Leite 
 - Vinicius Souza
+
+### Usem o padrão do GitFlow da SMN, seguindo o fluxo de criação da feat/nome-feat, teste na staging e PR para main.
